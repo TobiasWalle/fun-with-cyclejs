@@ -1,0 +1,9 @@
+{
+  "name": "fun-with-cyclejs",
+  "version": "1.0.0",
+  "description": "Testing out cyclejs",
+  "main": "dist/index.js",
+  "repository": "git@github.com:TobiasWalle/fun-with-cyclejs.git",
+  "author": "Tobias Walle",
+  "license": "MIT"
+}
